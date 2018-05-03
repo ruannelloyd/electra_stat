@@ -17,6 +17,3 @@ BEGIN
 END$$
  
 DELIMITER ;
-
-
-call ins_transaction('2',999);
