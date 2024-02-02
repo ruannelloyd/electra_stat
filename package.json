@@ -11,7 +11,7 @@
     "moment": "*",
     "mysql": "^2.15.0",
     "q": "^1.5.1",
-    "request": "*",
+    "request": "2.88.2",
     "winston": "*"
   },
   "devDependencies": {
